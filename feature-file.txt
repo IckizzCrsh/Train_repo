@@ -1,6 +1,10 @@
 - Spermik is better than vagina polution
 - Its ok? Or not?
+<<<<<<< HEAD
 - Зміни в з гілки"
 - Ha-ха-Ja
+=======
+- Ha-xa-Ja
+>>>>>>> new-feature
 - I dont know too
 - Зміни з гілки main"
